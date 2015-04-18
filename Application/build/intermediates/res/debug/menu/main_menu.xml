@@ -27,4 +27,4 @@
           android:title="@string/menu_refresh"
           android:showAsAction="never" />
 
-</menu><!-- From: file:/Users/wade0716/AndroidStudioProjects/SwipeRefreshMultipleViews/Application/src/main/res/menu/main_menu.xml -->
+</menu><!-- From: file:/Users/tao/git/SwipeRefreshMultipleViews/Application/src/main/res/menu/main_menu.xml -->
